@@ -6,7 +6,7 @@ Acest proiect citește expresii regulate dintr-un fișier JSON, le transformă �
 
 ```
 regex_verifier/
-├── main.py                # Scriptul principal care procesează regexurile și testează șirurile
+├── main.py               # Scriptul principal care procesează regexurile și testează șirurile
 ├── LNFAaccept.py         # Modul extern care conține funcția Verify pentru verificarea cuvintelor
 ├── data.json             # Fișierul cu expresii regulate și șiruri de testat
 └── README.md             # Documentația proiectului
